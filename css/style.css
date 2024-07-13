@@ -982,12 +982,20 @@ h6 {
 /*---------------------------------------------------*/
 /*	06) GRAX PORTFOLIO
 /*---------------------------------------------------*/
-
+.st-resume-timeline-subtitle {
+  padding-top: 15px;
+}
+.st-resume-timeline-wrap {
+  padding-left: 40px;
+  margin-left: 20px;
+  /* border-left: 1px solid #232935; */
+}
 .grax_tm_title_holder {
   width: 100%;
   height: auto;
   clear: both;
   float: left;
+  padding-top: 27px;
 }
 .grax_tm_title_holder span {
   color: #e54b4b;
